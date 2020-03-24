@@ -1,0 +1,15 @@
+{
+  "name": "slides",
+  "version": "1.0.0",
+  "description": "This is our slides for our company",
+  "main": "index.js",
+  "homepage": "https://balaye94dev.github.io/slides/index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Abdoulaye BA",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
