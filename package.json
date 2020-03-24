@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is our slides for our company",
   "main": "index.js",
-  "homepage": "https://balaye94dev.github.io/slides/index.html",
+  "homepage": "https://balaye94dev.github.io/slides/dist/index.html",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
